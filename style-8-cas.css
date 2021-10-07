@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap');;
+
+h1{
+    color: #d18181;
+    font-size: 35px;
+    font-family:'Roboto Mono', monospace;
+}
+.my-class{
+    color: tomato;
+}
+#my-id{
+    color: yellow;
+}
+.my-div p{
+    color:#7498EB ;
+    font-family: 'Roboto Mono', monospace;
+}
